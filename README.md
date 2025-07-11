@@ -14,7 +14,7 @@ Data Scientist | Machine Learning Engineer | Cloud DevOps Engineer | Big Data De
 - 🔭 I’m currently leading data strategy and analytics at **Statisense**
 - 🧑🏽‍🏫 I also teach data science at **GOMYCODE**
 - 🧰 I enjoy building scalable systems and uncovering insights from data
-- 🌍 Passionate about solving African problems using AI, Cloud, and Big Data
+- 🌍 Passionate about solving Complex problems using AI, Cloud, and Big Data
 
 ---
 
