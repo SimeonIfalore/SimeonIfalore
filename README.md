@@ -87,5 +87,11 @@ Data Scientist | Machine Learning Engineer | Cloud DevOps Engineer | Big Data De
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/simeonifalore?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-2c6ed1?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</p>
+
 
 _“Building with data, scaling with cloud, deploying with confidence.”_ 🚀
