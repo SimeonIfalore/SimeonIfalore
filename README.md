@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simeon Ifalore 👋</h1>
-<h3 align="center">
+<h3 align="eft">
 BI/Senior Data Analyst | Data Scientist | AI/ML Engineer | Analytics/Data Engineer | MLOPS/Cloud DevOps Engineer
 </h3>
 
