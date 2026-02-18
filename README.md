@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Simeon Ifalore 👋</h1>
 <h3 align="center">
-Data Scientist | Machine Learning Engineer | Cloud DevOps Engineer | Big Data Developer | Full Stack Senior Data Analyst | BI Analyst
+BI/Senior Data Analyst | Data Scientist | AI/ML Engineer | Analytics Engineer/Data Engineer | MLOPS & Cloud DevOps Engineer
 </h3>
 
 <p align="center">
